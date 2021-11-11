@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/video-search/static/css/main.4d6ffb3e.chunk.css",
+    "main.js": "/github.io/video-search/static/js/main.84b8a2b0.chunk.js",
+    "main.js.map": "/github.io/video-search/static/js/main.84b8a2b0.chunk.js.map",
+    "runtime-main.js": "/github.io/video-search/static/js/runtime-main.b38f8652.js",
+    "runtime-main.js.map": "/github.io/video-search/static/js/runtime-main.b38f8652.js.map",
+    "static/js/2.21db50e3.chunk.js": "/github.io/video-search/static/js/2.21db50e3.chunk.js",
+    "static/js/2.21db50e3.chunk.js.map": "/github.io/video-search/static/js/2.21db50e3.chunk.js.map",
+    "index.html": "/github.io/video-search/index.html",
+    "static/css/main.4d6ffb3e.chunk.css.map": "/github.io/video-search/static/css/main.4d6ffb3e.chunk.css.map",
+    "static/js/2.21db50e3.chunk.js.LICENSE.txt": "/github.io/video-search/static/js/2.21db50e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38f8652.js",
+    "static/js/2.21db50e3.chunk.js",
+    "static/css/main.4d6ffb3e.chunk.css",
+    "static/js/main.84b8a2b0.chunk.js"
+  ]
+}
